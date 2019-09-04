@@ -63,4 +63,4 @@ To remove a line, put <-- in the begin of the line
 僕は何度か呼吸を落ち着かせて、いざ、ドアを叩く。
 ```
 > Note: When you remove a line, a space **isn't** added between the 2 lines,  
-If you want add a space between the lines, modify the [code here](https://github.com/marcussacana/SystemCScriptManager/blob/master/SystemCScriptManager/ParserWrapper.cs.cs#L43)
+If you want add a space between the lines, modify the [code here](https://github.com/marcussacana/SystemCScriptManager/blob/master/SystemCScriptManager/ParserWrapper.cs#L43)
