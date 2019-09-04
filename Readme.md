@@ -1,6 +1,6 @@
 # SystemCScriptManager
 A tool created to allow add and remove lines from SystemC Engine Script's,  
-Tested with **Tsuushinbo ~Mama ni mo Naisho no Jikanwari~**
+Tested with **Tsuushinbo \~Mama ni mo Naisho no Jikanwari\~**
 
 ### Usage:
 - To **Extract**  
