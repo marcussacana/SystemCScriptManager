@@ -124,8 +124,8 @@ namespace SystemCScriptManager
 
                     if (!File.Exists(WorkDir + FileA))
                         throw new FileNotFoundException(FileA);
-                    if (!File.Exists(WorkDir + FileB))
-                        throw new FileNotFoundException(FileB);
+                    //if (!File.Exists(WorkDir + FileB))
+                    //    throw new FileNotFoundException(FileB);
 
                     SptList.Add(FileA);
                     //SptList.Add(FileB);
